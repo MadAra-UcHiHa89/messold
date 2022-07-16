@@ -1,0 +1,9 @@
+.shopfiy {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(370px, 1fr));
+  grid-row-gap: 6px;
+  grid-column-gap: 4px;
+  justify-content: center;
+  align-items: center;
+  /* background-color: rgb(205, 237, 239); */
+}
